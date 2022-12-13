@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj-kumar7/node-farm.git"
+  },
+  "author": "Neeraj Penumaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeraj-kumar7/node-farm/issues"
+  },
+  "homepage": "https://github.com/neeraj-kumar7/node-farm#readme"
+}
