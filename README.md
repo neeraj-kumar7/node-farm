@@ -1,0 +1,1 @@
+Created a simple project using Node.js. This node application displays the details of different products available in a farm.
